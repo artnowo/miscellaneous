@@ -1,0 +1,1 @@
+ssh -fNT -L *:8080:banana:8080 artur@strawberry
